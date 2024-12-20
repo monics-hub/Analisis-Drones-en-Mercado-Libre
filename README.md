@@ -4,7 +4,7 @@ La industria de drones se encuentra en crecimiento constante. Según un estudio 
 
 ## Metodología.
 
-Se realizo Web Scrapping al catálogo de Mercado Libre utilizando la herramienta Beautiful Soup de Python con lo cual se extrajeron datos como el precio, puntaje, ventas y características del drone como la resolución de la cámara, si es FPV o no, etc... Con lo cual se construyo un dataset de 500 productos que fueron analizados mediante Pandas y SQL queries. Finalmente los gráficos se realizaron mediante Plotly.
+Se realizo Web Scrapping al catálogo de Mercado Libre utilizando la herramienta Beautiful Soup de Python con lo cual se extrajeron datos como el precio, puntaje, ventas y características del drone como la resolución de la cámara, si es FPV o no, etc... Con lo cual se construyo un dataset de 500 productos que fueron analizados mediante Pandas y SQL queries. Finalmete se utilizó Power BI y DAX para el reporte.
 
 ## Resultados.
 
@@ -13,3 +13,5 @@ Algunos resultados remarcables son que el precio de los 2 más vendidos es de $4
 You can view the full report here: https://github.com/itzecloud/Analisis-Drones-en-Mercado-Libre/blob/main/Estudio%20de%20Mercado%20sobre%20Drones..pdf
 
 ![drones](https://github.com/itzecloud/Analisis-Drones-en-Mercado-Libre/assets/148586659/038a4064-8d69-4fe4-bff4-c54bcc9dc84b)
+![foto6](https://github.com/user-attachments/assets/a57f5aff-f7f3-4f14-9f10-597062b4658b)
+![foto7](https://github.com/user-attachments/assets/a32b270d-d73b-416f-a764-8eb913a4bd00)
