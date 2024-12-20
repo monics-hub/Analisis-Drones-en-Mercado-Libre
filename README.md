@@ -12,6 +12,6 @@ Algunos resultados remarcables son que el precio de los 2 más vendidos es de $4
 
 You can view the full report here: https://github.com/itzecloud/Analisis-Drones-en-Mercado-Libre/blob/main/Estudio%20de%20Mercado%20sobre%20Drones..pdf
 
-![drones](https://github.com/itzecloud/Analisis-Drones-en-Mercado-Libre/assets/148586659/038a4064-8d69-4fe4-bff4-c54bcc9dc84b)
-![foto6](https://github.com/user-attachments/assets/a57f5aff-f7f3-4f14-9f10-597062b4658b)
+![foto5](https://github.com/user-attachments/assets/02634892-b91a-4ee1-a4ad-d6a64efd6a9e)
+![foto6](https://github.com/user-attachments/assets/a57f5aff-f7f3-4f14-9f10-597062b4658b)![foto5](https://github.com/user-attachments/assets/bde133ff-1713-4774-966f-dde2141b8f79)
 ![foto7](https://github.com/user-attachments/assets/a32b270d-d73b-416f-a764-8eb913a4bd00)
