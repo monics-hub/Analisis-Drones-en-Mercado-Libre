@@ -12,7 +12,8 @@ Algunos resultados remarcables son que el precio de los 2 más vendidos es de $4
 
 Nota: Para poder visualizar el reporte es necesario tener instalado Power BI y descargar el archivo cleaned_drones.csv en la carpeta Documentos.
 
-You can view the full report here: https://github.com/itzecloud/Analisis-Drones-en-Mercado-Libre/blob/main/Estudio%20de%20Mercado%20sobre%20Drones..pdf
+Puedes ver el reporte completo aquí: https://app.powerbi.com/view?r=eyJrIjoiNTZiZDEzOWEtZTY2OC00NzliLTlkZmMtN2QxMDI5YzQ2N2I0IiwidCI6ImE4MGU0MjRhLTUzYzMtNGJlYS04NzdhLTc1YmZkMDZlZjIwMyJ9
+Y una explicación de como se creo aquí: https://github.com/itzecloud/Analisis-Drones-en-Mercado-Libre/blob/main/Estudio%20de%20Mercado%20sobre%20Drones..pdf
 
 ![foto5](https://github.com/user-attachments/assets/02634892-b91a-4ee1-a4ad-d6a64efd6a9e)
 ![foto6](https://github.com/user-attachments/assets/a57f5aff-f7f3-4f14-9f10-597062b4658b)
