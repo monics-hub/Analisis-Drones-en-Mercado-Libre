@@ -10,7 +10,7 @@ Se realizo Web Scrapping al catálogo de Mercado Libre utilizando la herramienta
 
 Algunos resultados remarcables son que el precio de los 2 más vendidos es de $400 y el promedio de los 18 más vendidos de $798. Sin embargo el presente análisis nos muestra que la correlación entre precio y ventas en general es del 4.2% a favor de los más baratos. Finalmente la relación calidad ventas es de solo el 5%. Lo que significa que mejorar la calidad no mejora las ventas. De hecho la gamma baja vende más. 
 
-Puedes ver una explicación de como se creo aquí: https://github.com/itzecloud/Analisis-Drones-en-Mercado-Libre/blob/main/Estudio%20de%20Mercado%20sobre%20Drones..pdf
+Puedes ver una explicación de como se creo aquí: https://github.com/itzecloud/Analisis-Drones-en-Mercado-Libre/blob/main/Estudio%20de%20Mercado%20sobre%20Drones.pdf
 
 Y la versión web del proyecto aquí: https://app.powerbi.com/view?r=eyJrIjoiNTZiZDEzOWEtZTY2OC00NzliLTlkZmMtN2QxMDI5YzQ2N2I0IiwidCI6ImE4MGU0MjRhLTUzYzMtNGJlYS04NzdhLTc1YmZkMDZlZjIwMyJ9
 
